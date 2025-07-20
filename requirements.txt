@@ -1,0 +1,6 @@
+requests
+soundfile
+numpy
+pyaudio
+openai-whisper
+torch 
