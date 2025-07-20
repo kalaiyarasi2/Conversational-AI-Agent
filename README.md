@@ -1,5 +1,5 @@
 
-### 🎙️ Real-Time Conversational AI Agent (Voice & Text)
+##🎙️ Real-Time Conversational AI Agent (Voice & Text)
 
 A Python-based AI assistant that supports **real-time voice-to-voice** and **text-to-voice** conversation using advanced AI models. This project integrates **Whisper (STT)**, **Groq LLM (Chat)**, and **Deepgram (TTS)** for a natural, interactive human-computer experience.
 
